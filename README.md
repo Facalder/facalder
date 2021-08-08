@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Facalder
+- 👋 Hi, I’m @Facalder this github for my personal project 
 - 👀 I’m interested in Swift, Tailwind and Ui/Ux Design
 - 🌱 I’m currently learning Tailwind 
 
